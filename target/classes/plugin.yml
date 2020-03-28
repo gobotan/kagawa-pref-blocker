@@ -1,0 +1,8 @@
+name: Kagawaprefblock
+version: 1.0-SNAPSHOT
+main: com.github.gobotan.kagawaprefblock.Kagawaprefblock
+api-version: 1.15
+commands:
+  kb:
+    description: kagawa blocker default command.
+
